@@ -1,0 +1,15 @@
+body {
+    width: 200px;
+}
+div {    
+    font-weight: bold;
+}
+#b325, .b326 {
+    border: 1px solid green;
+}
+p {
+    background: yellow;
+}
+.big {
+    color: blue;
+}
